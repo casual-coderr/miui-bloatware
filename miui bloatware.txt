@@ -1,0 +1,27 @@
+com.miui.analytics
+com.facebook.services
+com.facebook.appmanager
+com.facebook.system
+com.mipay.wallet.in
+org.mipay.android.manager
+
+#miui ads
+com.miui.msa.global
+
+#miui installer checker
+com.miui.global.packageinstaller
+
+#checks for spam.. dont use if you already have truecaller
+com.miui.yellowpage
+
+#weather
+com.miui.weather2
+
+com.miui.hybrid
+com.xiaomi.joyose
+com.miui.wmsvc
+
+#google one
+
+#emoji keyboard
+
