@@ -16,19 +16,19 @@ com.mipay.wallet.in
 
 org.mipay.android.manager
 
-#miui ads
+# miui ads
 
 com.miui.msa.global
 
-#miui installer checker
+# miui installer checker
 
 com.miui.global.packageinstaller
 
-#checks for spam.. dont use if you already have truecaller
+# checks for spam.. dont use if you already have truecaller
 
 com.miui.yellowpage
 
-#weather
+# weather
 
 com.miui.weather2
 
@@ -38,6 +38,6 @@ com.xiaomi.joyose
 
 com.miui.wmsvc
 
-#google one
+# google one
 
-#emoji keyboard
+# emoji keyboard
