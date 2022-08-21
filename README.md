@@ -2,10 +2,15 @@
 Miui Bloatware to remove in each phone
 
 com.miui.analytics
+
 com.facebook.services
+
 com.facebook.appmanager
+
 com.facebook.system
+
 com.mipay.wallet.in
+
 org.mipay.android.manager
 
 #miui ads
@@ -21,7 +26,9 @@ com.miui.yellowpage
 com.miui.weather2
 
 com.miui.hybrid
+
 com.xiaomi.joyose
+
 com.miui.wmsvc
 
 #google one
