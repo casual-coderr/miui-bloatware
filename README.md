@@ -14,15 +14,19 @@ com.mipay.wallet.in
 org.mipay.android.manager
 
 #miui ads
+
 com.miui.msa.global
 
 #miui installer checker
+
 com.miui.global.packageinstaller
 
 #checks for spam.. dont use if you already have truecaller
+
 com.miui.yellowpage
 
 #weather
+
 com.miui.weather2
 
 com.miui.hybrid
